@@ -1,0 +1,10 @@
+{
+  "id": "starter-obsidian-vite",
+  "name": "starter-obsidian-vite",
+  "version": "0.0.0",
+  "minAppVersion": "0.1.0",
+  "description": "A template for an Obsidian plugin with Vite, TS",
+  "author": "deuscx",
+  "authorUrl": "https://github.com/deuscx",
+  "isDesktopOnly": false
+}
