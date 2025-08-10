@@ -8,7 +8,8 @@
   "scripts": {
     "dev": "vite build --watch --mode=development",
     "build": "vite build",
-    "version": "npx changelogen@latest --bump && node version-bump.mjs && git add manifest.json versions.json",
+    "release": "npx changelogen@latest",
+    "version": "node version-bump.mjs && git add manifest.json versions.json",
     "lint": "eslint .",
     "test": "vitest"
   },

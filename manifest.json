@@ -1,7 +1,7 @@
 {
   "id": "daily-tracker",
   "name": "daily-tracker",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "minAppVersion": "0.1.0",
   "description": "A daily tracker",
   "author": "deuscx",
