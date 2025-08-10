@@ -1,9 +1,9 @@
 {
-  "id": "starter-obsidian-vite",
-  "name": "starter-obsidian-vite",
+  "id": "daily-tracker",
+  "name": "daily-tracker",
   "version": "0.0.0",
   "minAppVersion": "0.1.0",
-  "description": "A template for an Obsidian plugin with Vite, TS",
+  "description": "A daily tracker",
   "author": "deuscx",
   "authorUrl": "https://github.com/deuscx",
   "isDesktopOnly": false
