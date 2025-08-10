@@ -1,7 +1,8 @@
 {
-  "name": "starter-obsidian-vite",
+  "name": "obsidian-daily-tracker",
   "version": "0.0.1",
-  "author": "",
+  "packageManager": "pnpm@10.6.5",
+  "author": "deuscx",
   "license": "Apache-2.0",
   "keywords": [],
   "main": "main.js",
